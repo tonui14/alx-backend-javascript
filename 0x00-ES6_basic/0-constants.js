@@ -1,4 +1,5 @@
 // Updated code for 0-constants.js
+
 export function taskFirst() {
   const task = 'I prefer const when I can.';
   return task;
@@ -13,3 +14,4 @@ export function taskNext() {
   combination += getLast();
 
   return combination;
+}

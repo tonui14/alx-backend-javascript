@@ -1,0 +1,17 @@
+{
+  "name": "0x00-ES6_basic",
+  "version": "1.0.0",
+  "description": "Project focusing on ES6 basics",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}
